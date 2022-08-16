@@ -1,2 +1,20 @@
 # portfolio
-best projects of TechnoDot
+my portfolio
+
+- https://github.com/TechDudie/EmailArchiver
+- https://github.com/TechDudie/GrassBandits
+- https://github.com/TechDudie/SoulChirp
+- https://github.com/TechDudie/TechEditOfficial
+- https://github.com/TechDudie/manager
+- https://github.com/TechDudie/terminal
+- https://github.com/TechDudie/tkinterDnD
+- https://github.com/TechDudie/ethiopiasd
+- https://github.com/TechDudie/newyear2022
+- https://github.com/TechDudie/Portal
+- https://github.com/TechDudie/terrain
+- https://github.com/TechDudie/mc
+- https://github.com/TechDudie/code
+- https://github.com/TechDudie/6502os
+- https://github.com/ChatPy/ChatPy
+- https://github.com/dovegaming/dovewebsite
+- https://github.com/dovegaming/dovenetwork
